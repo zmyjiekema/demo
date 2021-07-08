@@ -1,7 +1,7 @@
-# zxing
+# DEMO
 
-- Reader QrCode
-- Create Qrcode
+- [Reader QrCode](https://www.nanshanqiao.com/demo/#/zxing/camera)
+- [create QrCode](https://www.nanshanqiao.com/demo/#/zxing/qrcode)
 
 ## Project setup
 
