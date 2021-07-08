@@ -1,7 +1,7 @@
 # zxing
 
-Reader QrCode
-Create Qrcode
+- Reader QrCode
+- Create Qrcode
 
 ## Project setup
 
