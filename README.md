@@ -1,32 +1,16 @@
 # DEMO
 
+## Title
+
 - [Reader QrCode](https://www.nanshanqiao.com/demo/#/zxing/camera)
 - [create QrCode](https://www.nanshanqiao.com/demo/#/zxing/qrcode)
 
-## Project setup
+## Project Running
 
 ```
 npm install
-```
 
-### Compiles and hot-reloads for development
-
-```
 npm run serve
-```
 
-### Compiles and minifies for production
-
-```
 npm run build
 ```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
